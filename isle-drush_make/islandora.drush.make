@@ -46,6 +46,7 @@ projects[islandora_simple_workflow][download][url] = "https://github.com/Islando
 projects[islandora_solr_facet_pages][download][url] = "https://github.com/Islandora/islandora_solr_facet_pages.git"
 projects[islandora_solr_metadata][download][url] = "https://github.com/canuslu/islandora_solr_metadata.git"
 projects[islandora_solr_search][download][url] = "https://github.com/canuslu/islandora_solr_search.git"
+  projects[islandora_solr_search][download][branch] = "mid"
 projects[islandora_solr_views][download][url] = "https://github.com/Islandora/islandora_solr_views.git"
 projects[islandora_solution_pack_audio][download][url] = "https://github.com/Islandora/islandora_solution_pack_audio.git"
 projects[islandora_solution_pack_book][download][url] = "https://github.com/Islandora/islandora_solution_pack_book.git"
