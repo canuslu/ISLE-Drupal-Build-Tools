@@ -16,6 +16,7 @@ defaults[projects][download][branch]  = "7.x-1.13"
 defaults[projects][download][overwrite] = TRUE
 
 projects[islandora][download][url] = "https://github.com/canuslu/islandora.git"
+  projects[islandora][download][branch] = "mid"
 
 projects[islandora_bagit][download][url] = "https://github.com/Islandora/islandora_bagit.git"
 projects[islandora_batch][download][url] = "https://github.com/Islandora/islandora_batch.git"
